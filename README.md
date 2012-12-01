@@ -8,13 +8,13 @@ Basic Usage
 
 ```javascript
 
-var windowPositionY = 1000;
+var scrollTo = 1000;
 var speed = 5;
-steamScroller(yPosition, speed);
+steamScroller(scrollTo, speed);
 
 ```
 
-Usage With Callbacks
+Usage With Callbacks, Chaining
 ====================
 
 ```javascript
